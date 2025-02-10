@@ -3,7 +3,7 @@
   "name": "Naived Sir",
   "greetingText": "Your favorite students have a special message for you!",
   "wishText": "May your code always compile and your cricket shots always find the boundary! 🏏",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/NJE.jpeg",
   "text1": "It's your 26th birthday!!! 🎉",
   "textInChatBox": "Happy birthday to the coolest teacher who makes learning fun!",
   "sendButtonLabel": "Send",
@@ -16,7 +16,7 @@
   "smiley": "🎵",
   "bigTextPart1": "2",
   "bigTextPart2": "6",
-  "wishHeading": "Happy Birthday Sir!",
+  "wishHeading": "Happy Birthday!",
   "outroText": "From your coding enthusiasts - your wonderful students",
   "replayText": "Click here to watch again (like how we debug our code multiple times 😉)",
   "outroSmiley": "🏏"
